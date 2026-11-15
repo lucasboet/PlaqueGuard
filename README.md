@@ -99,7 +99,7 @@ Ablation: keep 5, 10, 25 and 100% of the real hard negatives.
 
 ## 12. Team members
 
-- Lucas Martin Boet
+- Lucas Boet
 - Yerus Kanaw
 - Yuval David
 
